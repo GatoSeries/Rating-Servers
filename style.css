@@ -1,0 +1,27 @@
+.game-main {
+    border: 1px solid ;
+    
+}
+.reseña_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.reseña_head i 
+{ 
+float: right;
+}
+.servertext span{
+color: orange;    
+
+}
+.unu {
+    margin-bottom: 20px;
+}
+#oño iframe{
+width: 100%;
+}
+#oño img {
+width: 100px;    
+}
